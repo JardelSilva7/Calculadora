@@ -25,7 +25,6 @@ Criar uma calculadora simples em **HTML, CSS e JavaScript**, aplicando conceitos
 
 ---
 
-## 🚀 Para executar o projeto
-   Baixe ou clone este repositório:
-   ```bash
-   git clone https://github.com/JardelSilva7/Calculadora.git
+## 🚀 Execução
+   👉 [Para executar o projeto](https://jardelsilva7.github.io/Calculadora/)
+   
